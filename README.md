@@ -5,7 +5,7 @@ Intro to the repository goes here.
 ## Table of content (optional)
 * [Installation](#installation)
 	* [Pre-built binaries](#pre-built-binaries)
-	* [Installing from source]()
+	* [Installing from source](#installing-from-source)
 * [Usage](#usage)
 * [Documentation](#documentation)
 * [Issues](#issues-optional)
