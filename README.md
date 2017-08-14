@@ -1,7 +1,6 @@
 # Test repo
 
-TOC
-===
+##TOC
 
 -[First](#First)
 -[Second](#Second)
@@ -11,8 +10,8 @@ Dummy repository for testing the Github web editor.
 
 Adding lines over git bash
 
-First
+##First
 
-Second
+##Second
 
-Third
+##Third
