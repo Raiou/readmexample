@@ -2,9 +2,9 @@
 
 ## TOC
 
-- [First](#First)
-- [Second](#Second)
-- [Third](#Third)
+- [First](#first)
+- [Second](#second)
+- [Third](#third)
 
 Dummy repository for testing the Github web editor.
 
