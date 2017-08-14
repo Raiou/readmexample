@@ -7,11 +7,10 @@ Intro to the repository goes here.
 	* Pre-built
 	* Source
 * [Usage](#usage)
-* [Code samples](#code)
 * [Documentation](#documentation)
-* [Opening issues](#opening)
-* [Contributing](#contributing)
-* [Licensing](#Licensing)
+* [Opening issues](#issues-optional)
+* [Contributing](#contributing-optional)
+* [Licensing](#license)
 
 ##Installation
 
