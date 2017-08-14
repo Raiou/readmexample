@@ -8,9 +8,9 @@ Intro to the repository goes here.
 	* Source
 * [Usage](#usage)
 * [Documentation](#documentation)
-* [Opening issues](#issues-optional)
+* [Issues](#issues-optional)
 * [Contributing](#contributing-optional)
-* [Licensing](#license)
+* [License](#license)
 
 ## Installation
 
