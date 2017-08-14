@@ -12,8 +12,7 @@ Intro to the repository goes here.
 * [Contributing](#contributing-optional)
 * [Licensing](#license)
 
-##Installation
-
+## Installation
 
 ### Pre-built binaries
 
