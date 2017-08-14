@@ -4,8 +4,8 @@ Intro to the repository goes here.
 
 ## Table of content (optional)
 * [Installation](#installation)
-	* Pre-built
-	* Source
+	* [Pre-built binaries](#pre-built-binaries)
+	* [Installing from source]()
 * [Usage](#usage)
 * [Documentation](#documentation)
 * [Issues](#issues-optional)
@@ -47,7 +47,7 @@ something something run
 Examples of outputs that can be expected.
 
 ```
-$ packer build examples/basic_plan.json 
+$ example command
 
 ==> Builds finished. The artifacts of successful builds are:
 --> Private template (UUID: 01875f67-4eb5-4d90-982c-d7a164646fcb, Title: packer-builder-1468327456-disk1-template-1468327515)
